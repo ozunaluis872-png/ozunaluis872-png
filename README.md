@@ -1,6 +1,6 @@
 # portafolio
 
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Condor Coders
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycTlubGdjOGxjcDNzc2E5OWpkN2pjMGN0YzZlazMzcG4yOWluYjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/> Bienvenid@ al GitHub de Luis Ozuna
 
 ![Banner de Condor Coders](banner-github-condor-coders.png)
 
