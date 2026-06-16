@@ -9,7 +9,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/829740032716963901)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@luisozuna2845)
 
-
 Desarrollador de software apasionado por la tecnología y el aprendizaje continuo. En este espacio comparto algunos de mis proyectos, experiencias y conocimientos adquiridos durante mi formación y desarrollo profesional.
 
 Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologías y mejorar constantemente mis habilidades en desarrollo web, móvil y bases de datos.
